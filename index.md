@@ -62,3 +62,10 @@ layout: default
 *   **“无限流量”有猫腻**：看到这类宣传要警惕。毛塔套餐普遍有“公平使用条款”（FUP），高速流量用完后限速到128Kbps或更低，基本等于“能用微信文字”。
 *   **带好护照复印件**：补卡、大额充值可能用到。手机里也存一份电子版。
 *   **现金
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Mauritania SIM 卡购买与激活指南](https://faciylike.github.io/mauritania-sim-guides)
